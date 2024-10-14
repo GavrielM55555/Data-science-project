@@ -7,4 +7,4 @@ After that, we will use models to predict the price of the vehicle and the SHAP 
 
 in addition, we will try to predict the comapny name acoording to the numrtic colums so that every buyer could look for the best comapny for is needs
 
-And to finishת an ANN model will be built in order to predict the time of the sales and will be compared with MLP ANN model froצ Sklearn..
+And to finishת an ANN model will be built in order to predict the time of the sales and will be compared with MLP ANN model froצ Sklearn.
